@@ -5,6 +5,8 @@ VisualStudioVersion = 17.5.33530.505
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibraryExam", "ClassLibraryExam.csproj", "{64AAA244-3E95-4139-9031-BDEF40D14C80}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppExam", "..\ConsoleAppExam\ConsoleAppExam.csproj", "{6B957CBE-A44B-4A8C-90AD-E075293FD53B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{64AAA244-3E95-4139-9031-BDEF40D14C80}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{64AAA244-3E95-4139-9031-BDEF40D14C80}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{64AAA244-3E95-4139-9031-BDEF40D14C80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B957CBE-A44B-4A8C-90AD-E075293FD53B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B957CBE-A44B-4A8C-90AD-E075293FD53B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B957CBE-A44B-4A8C-90AD-E075293FD53B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B957CBE-A44B-4A8C-90AD-E075293FD53B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

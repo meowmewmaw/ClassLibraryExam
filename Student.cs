@@ -15,6 +15,13 @@ namespace ClassLibraryExam
             set { name = value; }
         }
         private double ocenka;
+
+        public Student(string name, double ocenka)
+        {
+            Name = name;
+            Ocenka = ocenka;
+        }
+
         public double Ocenka
         {
             get { return ocenka; }
